@@ -10,6 +10,9 @@ import Footer from "../Footer/Footer";
 // import Preloader from "../Preloader/Preloader";
 import CardModal from "../CardModal/CardModal";
 import { getPatterns } from "../../utils/api";
+import crocheting from "../../images/crocheting.jpg";
+import knitting from "../../images/knitting.jpg";
+import yarnball from "../../images/yarnball.svg";
 
 function App() {
   const [items, setItems] = useState([]);
@@ -17,6 +20,7 @@ function App() {
   const [activeModal, setActiveModal] = useState("");
   const [selectedCard, setSelectedCard] = useState({});
   const [isError, setIsError] = useState();
+  const [image, setImage] = useState();
 
   const createRandomList = (array, num) => {
     let newArray = [];
@@ -68,12 +72,19 @@ function App() {
       });
   }, []);
 
+  // choose random image
+  useEffect(() => {
+    const images = [crocheting, knitting, yarnball];
+    const imageArray = createRandomList(images, 1);
+    setImage(imageArray[0]);
+  }, []);
+
   return (
     <div className="app">
       <Header />
       <Switch>
         <Route exact path="/">
-          <Main onRandom={createRandomList} onClick={createPatternList} />
+          <Main randomImage={image} onClick={createPatternList} />
         </Route>
         <Route path="/randompattern">
           <RandomPattern
