@@ -11,7 +11,7 @@ function Navigation() {
             About
           </HashLink>
         </li>
-        <li className="navigation__list-item navigation__list-item_Ravelry">
+        <li className="navigation__list-item navigation__list-item_ravelry">
           <a
             href="https://www.ravelry.com/"
             className="navigation__link"
