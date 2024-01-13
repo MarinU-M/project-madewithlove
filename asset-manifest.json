@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/project-randompattern-frontend/static/css/main.12df909a.css",
+    "main.css": "/project-randompattern-frontend/static/css/main.3d488110.css",
     "main.js": "/project-randompattern-frontend/static/js/main.ddc0bdd6.js",
     "static/js/787.1710bae1.chunk.js": "/project-randompattern-frontend/static/js/787.1710bae1.chunk.js",
     "static/media/NotoSans-VariableFont_wdth,wght.ttf": "/project-randompattern-frontend/static/media/NotoSans-VariableFont_wdth,wght.b1d0ab70303caea663db.ttf",
@@ -14,12 +14,12 @@
     "index.html": "/project-randompattern-frontend/index.html",
     "static/media/close.svg": "/project-randompattern-frontend/static/media/close.dcddfede664628516ef675e795ba4b0d.svg",
     "static/media/icons8-linkedin.svg": "/project-randompattern-frontend/static/media/icons8-linkedin.e9b8df20d092b20af087c400014ff4c8.svg",
-    "main.12df909a.css.map": "/project-randompattern-frontend/static/css/main.12df909a.css.map",
+    "main.3d488110.css.map": "/project-randompattern-frontend/static/css/main.3d488110.css.map",
     "main.ddc0bdd6.js.map": "/project-randompattern-frontend/static/js/main.ddc0bdd6.js.map",
     "787.1710bae1.chunk.js.map": "/project-randompattern-frontend/static/js/787.1710bae1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12df909a.css",
+    "static/css/main.3d488110.css",
     "static/js/main.ddc0bdd6.js"
   ]
 }
