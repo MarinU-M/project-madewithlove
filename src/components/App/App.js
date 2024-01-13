@@ -36,6 +36,7 @@ function App() {
   const createPatternList = () => {
     setList(createRandomList(items, 3));
   };
+
   const handleSelectedCard = (card) => {
     setActiveModal("preview");
     setSelectedCard(card);
