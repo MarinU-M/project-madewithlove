@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project-randompattern-frontend/static/css/main.3d488110.css",
-    "main.js": "/project-randompattern-frontend/static/js/main.ddc0bdd6.js",
+    "main.js": "/project-randompattern-frontend/static/js/main.a869f28c.js",
     "static/js/787.1710bae1.chunk.js": "/project-randompattern-frontend/static/js/787.1710bae1.chunk.js",
     "static/media/NotoSans-VariableFont_wdth,wght.ttf": "/project-randompattern-frontend/static/media/NotoSans-VariableFont_wdth,wght.b1d0ab70303caea663db.ttf",
     "static/media/Pacifico-Regular.ttf": "/project-randompattern-frontend/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
@@ -15,11 +15,11 @@
     "static/media/close.svg": "/project-randompattern-frontend/static/media/close.dcddfede664628516ef675e795ba4b0d.svg",
     "static/media/icons8-linkedin.svg": "/project-randompattern-frontend/static/media/icons8-linkedin.e9b8df20d092b20af087c400014ff4c8.svg",
     "main.3d488110.css.map": "/project-randompattern-frontend/static/css/main.3d488110.css.map",
-    "main.ddc0bdd6.js.map": "/project-randompattern-frontend/static/js/main.ddc0bdd6.js.map",
+    "main.a869f28c.js.map": "/project-randompattern-frontend/static/js/main.a869f28c.js.map",
     "787.1710bae1.chunk.js.map": "/project-randompattern-frontend/static/js/787.1710bae1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d488110.css",
-    "static/js/main.ddc0bdd6.js"
+    "static/js/main.a869f28c.js"
   ]
 }
