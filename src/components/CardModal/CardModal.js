@@ -18,7 +18,12 @@ function CardModal({ selectedCard, onClose }) {
         <div className="card-modal__description">
           <p className="card-modal__title">{name}</p>
           <span className="card-modal__shadow">
-            <a className="card-modal__link" href={link}>
+            <a
+              className="card-modal__link"
+              href={link}
+              target="_blank"
+              rel="noreferrer"
+            >
               Learn more
             </a>
           </span>
