@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/project-randompattern-frontend/static/css/main.3d488110.css",
-    "main.js": "/project-randompattern-frontend/static/js/main.a869f28c.js",
-    "static/js/787.1710bae1.chunk.js": "/project-randompattern-frontend/static/js/787.1710bae1.chunk.js",
-    "static/media/NotoSans-VariableFont_wdth,wght.ttf": "/project-randompattern-frontend/static/media/NotoSans-VariableFont_wdth,wght.b1d0ab70303caea663db.ttf",
-    "static/media/Pacifico-Regular.ttf": "/project-randompattern-frontend/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
-    "static/media/crocheting.jpg": "/project-randompattern-frontend/static/media/crocheting.cfbe20744f6b171d21eb.jpg",
-    "static/media/knitting.jpg": "/project-randompattern-frontend/static/media/knitting.f55702f714bd9f46a291.jpg",
-    "static/media/yarnball.svg": "/project-randompattern-frontend/static/media/yarnball.20ba30ad1d0ab9a47e7fe0db9202890b.svg",
-    "static/media/EduTASBeginner-Regular.ttf": "/project-randompattern-frontend/static/media/EduTASBeginner-Regular.6654af0733c274eef43d.ttf",
-    "static/media/EduTASBeginner-Bold.ttf": "/project-randompattern-frontend/static/media/EduTASBeginner-Bold.e40ec7e2c88f346e4463.ttf",
-    "static/media/github-mark.svg": "/project-randompattern-frontend/static/media/github-mark.6fa18895f6e6c7772cab7049f7e05f59.svg",
-    "index.html": "/project-randompattern-frontend/index.html",
-    "static/media/close.svg": "/project-randompattern-frontend/static/media/close.dcddfede664628516ef675e795ba4b0d.svg",
-    "static/media/icons8-linkedin.svg": "/project-randompattern-frontend/static/media/icons8-linkedin.e9b8df20d092b20af087c400014ff4c8.svg",
-    "main.3d488110.css.map": "/project-randompattern-frontend/static/css/main.3d488110.css.map",
-    "main.a869f28c.js.map": "/project-randompattern-frontend/static/js/main.a869f28c.js.map",
-    "787.1710bae1.chunk.js.map": "/project-randompattern-frontend/static/js/787.1710bae1.chunk.js.map"
+    "main.css": "/project-madewithlove/static/css/main.8ba05da5.css",
+    "main.js": "/project-madewithlove/static/js/main.8281b740.js",
+    "static/js/787.488b6b1a.chunk.js": "/project-madewithlove/static/js/787.488b6b1a.chunk.js",
+    "static/media/NotoSans-VariableFont_wdth,wght.ttf": "/project-madewithlove/static/media/NotoSans-VariableFont_wdth,wght.b1d0ab70303caea663db.ttf",
+    "static/media/Pacifico-Regular.ttf": "/project-madewithlove/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
+    "static/media/crocheting.jpg": "/project-madewithlove/static/media/crocheting.cfbe20744f6b171d21eb.jpg",
+    "static/media/knitting.jpg": "/project-madewithlove/static/media/knitting.f55702f714bd9f46a291.jpg",
+    "static/media/yarnball.svg": "/project-madewithlove/static/media/yarnball.20ba30ad1d0ab9a47e7fe0db9202890b.svg",
+    "static/media/EduTASBeginner-Regular.ttf": "/project-madewithlove/static/media/EduTASBeginner-Regular.6654af0733c274eef43d.ttf",
+    "static/media/EduTASBeginner-Bold.ttf": "/project-madewithlove/static/media/EduTASBeginner-Bold.e40ec7e2c88f346e4463.ttf",
+    "static/media/github-mark.svg": "/project-madewithlove/static/media/github-mark.6fa18895f6e6c7772cab7049f7e05f59.svg",
+    "static/media/close.svg": "/project-madewithlove/static/media/close.dcddfede664628516ef675e795ba4b0d.svg",
+    "index.html": "/project-madewithlove/index.html",
+    "static/media/icons8-linkedin.svg": "/project-madewithlove/static/media/icons8-linkedin.e9b8df20d092b20af087c400014ff4c8.svg",
+    "main.8ba05da5.css.map": "/project-madewithlove/static/css/main.8ba05da5.css.map",
+    "main.8281b740.js.map": "/project-madewithlove/static/js/main.8281b740.js.map",
+    "787.488b6b1a.chunk.js.map": "/project-madewithlove/static/js/787.488b6b1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d488110.css",
-    "static/js/main.a869f28c.js"
+    "static/css/main.8ba05da5.css",
+    "static/js/main.8281b740.js"
   ]
 }
