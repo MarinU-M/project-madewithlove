@@ -1,8 +1,8 @@
 {
-  "name": "project-randompattern-frontend",
+  "name": "project-madewithlove",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marinu-m.github.io/project-randompattern-frontend/",
+  "homepage": "https://marinu-m.github.io/project-madewithlove/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
