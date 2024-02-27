@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/project-madewithlove/static/css/main.8ba05da5.css",
-    "main.js": "/project-madewithlove/static/js/main.8281b740.js",
+    "main.js": "/project-madewithlove/static/js/main.7664b18e.js",
     "static/js/787.488b6b1a.chunk.js": "/project-madewithlove/static/js/787.488b6b1a.chunk.js",
     "static/media/NotoSans-VariableFont_wdth,wght.ttf": "/project-madewithlove/static/media/NotoSans-VariableFont_wdth,wght.b1d0ab70303caea663db.ttf",
     "static/media/Pacifico-Regular.ttf": "/project-madewithlove/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
+    "static/media/1560331657736.jpg": "/project-madewithlove/static/media/1560331657736.73bc81ce6a0c3700615b.jpg",
     "static/media/crocheting.jpg": "/project-madewithlove/static/media/crocheting.cfbe20744f6b171d21eb.jpg",
     "static/media/knitting.jpg": "/project-madewithlove/static/media/knitting.f55702f714bd9f46a291.jpg",
     "static/media/yarnball.svg": "/project-madewithlove/static/media/yarnball.20ba30ad1d0ab9a47e7fe0db9202890b.svg",
@@ -15,11 +16,11 @@
     "index.html": "/project-madewithlove/index.html",
     "static/media/icons8-linkedin.svg": "/project-madewithlove/static/media/icons8-linkedin.e9b8df20d092b20af087c400014ff4c8.svg",
     "main.8ba05da5.css.map": "/project-madewithlove/static/css/main.8ba05da5.css.map",
-    "main.8281b740.js.map": "/project-madewithlove/static/js/main.8281b740.js.map",
+    "main.7664b18e.js.map": "/project-madewithlove/static/js/main.7664b18e.js.map",
     "787.488b6b1a.chunk.js.map": "/project-madewithlove/static/js/787.488b6b1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ba05da5.css",
-    "static/js/main.8281b740.js"
+    "static/js/main.7664b18e.js"
   ]
 }
