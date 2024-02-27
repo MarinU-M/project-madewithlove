@@ -32,7 +32,7 @@ function About() {
       <img
         className="about__img"
         alt="author icon"
-        src="https://media.licdn.com/dms/image/C5103AQGoJeq7zC6jIg/profile-displayphoto-shrink_400_400/0/1560331656757?e=1708560000&v=beta&t=UYu-H9EabDt1lDiKlGkfxgfbmPMmmpdu5u2tsIfrVVM"
+        src="https://media.licdn.com/dms/image/C5103AQGoJeq7zC6jIg/profile-displayphoto-shrink_800_800/0/1560331657736?e=1710979200&v=beta&t=b7tyhC_B0BWkqeaNd7vyb3NV4hNcAmPbYZPdZVWKCpY"
       />
     </section>
   );
