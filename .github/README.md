@@ -10,6 +10,8 @@
 
 This project is made to inspire you to decide what pattern would be great for your next knitting/crocheting project. Pattern data is fetched from via Ravelry API. Deployed page is [here](https://marinu-m.github.io/project-madewithlove/)
 
+Currently working on the backend [here](https://github.com/MarinU-M/backend-of-madewithlove).
+
 **Images**
 
 MadeWithLove landing page. The picture on the left will be changed randomly when you load the page.
