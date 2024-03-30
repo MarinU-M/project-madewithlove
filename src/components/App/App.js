@@ -9,7 +9,11 @@ import About from "../About/About";
 import Footer from "../Footer/Footer";
 // import Preloader from "../Preloader/Preloader";
 import CardModal from "../CardModal/CardModal";
-import { getPatterns } from "../../utils/api";
+import {
+  getPatterns,
+  getCrochetPatterns,
+  getKnittingPatterns,
+} from "../../utils/api";
 import crocheting from "../../images/crocheting.jpg";
 import knitting from "../../images/knitting.jpg";
 import yarnball from "../../images/yarnball.svg";
@@ -66,6 +70,7 @@ function App() {
       .then((res) => {
         const { patterns } = res;
         setItems(patterns);
+        console.log(patterns);
       })
       .catch((err) => {
         setIsError(true);
