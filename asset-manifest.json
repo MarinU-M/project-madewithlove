@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project-madewithlove/static/css/main.8ba05da5.css",
-    "main.js": "/project-madewithlove/static/js/main.7664b18e.js",
+    "main.js": "/project-madewithlove/static/js/main.c53eecb3.js",
     "static/js/787.488b6b1a.chunk.js": "/project-madewithlove/static/js/787.488b6b1a.chunk.js",
     "static/media/NotoSans-VariableFont_wdth,wght.ttf": "/project-madewithlove/static/media/NotoSans-VariableFont_wdth,wght.b1d0ab70303caea663db.ttf",
     "static/media/Pacifico-Regular.ttf": "/project-madewithlove/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
@@ -16,11 +16,11 @@
     "index.html": "/project-madewithlove/index.html",
     "static/media/icons8-linkedin.svg": "/project-madewithlove/static/media/icons8-linkedin.e9b8df20d092b20af087c400014ff4c8.svg",
     "main.8ba05da5.css.map": "/project-madewithlove/static/css/main.8ba05da5.css.map",
-    "main.7664b18e.js.map": "/project-madewithlove/static/js/main.7664b18e.js.map",
+    "main.c53eecb3.js.map": "/project-madewithlove/static/js/main.c53eecb3.js.map",
     "787.488b6b1a.chunk.js.map": "/project-madewithlove/static/js/787.488b6b1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ba05da5.css",
-    "static/js/main.7664b18e.js"
+    "static/js/main.c53eecb3.js"
   ]
 }
